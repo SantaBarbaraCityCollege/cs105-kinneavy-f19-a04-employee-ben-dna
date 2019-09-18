@@ -17,7 +17,7 @@ package edu.sbcc.cs105;
 public class Program {
 
     /**
-     * Create an employee and test that the proper name has been created. Test
+     * Create an employee  and test that the proper name has been created. Test
      * the initial salary amount and then give the employee a raise. Then check
      * to make sure the salary matches the raised salary.
      * 
